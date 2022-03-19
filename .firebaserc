@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "staging": "gitbootcamp",
+    "default": "gitbootcamp"
+  },
+  "targets": {}
+}
